@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Arq.Rubens/Programming/Backend/Libs/iText-Core-9.2.0-only-jars/commons-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Arq.Rubens/Programming/Backend/Libs/iText-Core-9.2.0-only-jars/io-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Arq.Rubens/Programming/Backend/Libs/iText-Core-9.2.0-only-jars/kernel-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Arq.Rubens/Programming/Backend/Libs/iText-Core-9.2.0-only-jars/layout-9.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Arq.Rubens/Programming/Backend/Libs/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Arq.Rubens/Programming/Backend/Libs/slf4j-simple-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Arq.Rubens/Programming/SQL/sqljdbc_13.2.1.0_ptb/sqljdbc_13.2/ptb/jars/mssql-jdbc-13.2.1.jre11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
