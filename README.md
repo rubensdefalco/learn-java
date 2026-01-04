@@ -3,7 +3,7 @@
 ✅ Cálculo do total de vendas
 ✅ Geração de relatório de vendas em PDF
 ✅ Escolha do diretório para salvar o PDF
-✅ Persistência do último diretório utilizado
+✅ Persistência do último diretório utilizado 
 ✅ Arquitetura MVC
 ✅ Versionamento com Git
 
